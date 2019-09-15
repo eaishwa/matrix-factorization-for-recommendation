@@ -7,5 +7,3 @@ The following files are included:
 3. movies.txt contains the mapping from movie_id to movie name. Row j corresponds to index j of movie_id.
 
 4. README (original) is the original readme for the MovieLens 100K data set
-
-Comment: I have subtracted the mean from the ratings. No other pre-processing is necessary.
